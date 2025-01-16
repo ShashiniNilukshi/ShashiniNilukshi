@@ -1,7 +1,7 @@
 ### Hi there, I'm Shashini Nilukshi 👋
 
 # 💫 About Me:
-I am a passionate software engineering student from the University of Westminster with a keen interest in web development 🌐 and machine learning 🤖. I am dedicated to expanding my knowledge and skills in the field of software engineering while contributing to meaningful projects that make a positive impact ✨. I'm enthusiastic about collaborating with like-minded individuals on exciting ventures!<br><br>I'm actively seeking opportunities to collaborate on innovative projects in the realms of web development 🌐 and machine learning 🤖. Whether it's building a web application, creating machine learning models, or exploring new technologies, I'm eager to join forces with fellow developers and make a difference together ✨.
+As a passionate Software Engineering student, I am dedicated to building innovative solutions that make a difference. I am eager to learn and grow while contributing my skills to meaningful projects in the tech industry. Through continuous learning and hands-on experience, I aim to develop impactful solutions that create value for users and organizations.
 
 
 ## 🌐 Socials:
